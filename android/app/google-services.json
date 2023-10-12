@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "235776334997",
+    "project_id": "pickterra-f60c8",
+    "storage_bucket": "pickterra-f60c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235776334997:android:253b2905582dcec46d4f9c",
+        "android_client_info": {
+          "package_name": "com.pickterra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235776334997-t4vobfpb22le20mfuiccccp18a7mujbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jVjSAyJxoD7heC8IKqZflLY022bkU7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235776334997-t4vobfpb22le20mfuiccccp18a7mujbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235776334997-s7kh9ll4ukl1j6jahi7vgsant4oadc2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.pickterra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
